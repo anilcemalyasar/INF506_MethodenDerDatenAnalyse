@@ -1,0 +1,112 @@
+,url,Marke,Model,Kilometerstand,Antrieb,Baujahr,Motorleistung,Preis,Sitzplätze,Türen,Hubraum,Außenfarbe
+0,https://www.autoscout24.de/angebote/audi-a5-coupe-1-8-tfsi-xenon-tempo-18-zoll-klimaauto-benzin-schwarz-5e7e5eff-8b49-448b-bafc-a31bb1e87c93,Audi, A5 ,117981,Schaltgetriebe,2013,125,12950.0,4,2,1798,Schwarz
+1,https://www.autoscout24.de/angebote/audi-s3-sportback-2-0-tfsi-quattro-pano-navi-bose-benzin-schwarz-19ab8289-e24f-4e70-8037-037f4f8d7a72,Audi, S3 ,186500,Automatik,2012,195,12499.0,5,4,1984,Schwarz
+2,https://www.autoscout24.de/angebote/audi-a6-allroad-allroad-3-0-tfsi-qu-luftfederung-ahk-leder-benzin-grau-7aa0adaf-a46a-4cc4-8384-9d30dfe7d9d9,Audi, A6 allroad ,187000,Automatik,2011,213,14480.0,5,5,2995,Grau
+3,https://www.autoscout24.de/angebote/audi-q3-2-0-tdi-keyless-sitzheizung-2-hand-diesel-schwarz-971a82bb-bd7e-431c-bcf8-e34c8eb957dd,Audi, Q3 ,115638,Schaltgetriebe,2013,103,13950.0,5,4,1968,Schwarz
+4,https://www.autoscout24.de/angebote/audi-a6-allroad-3-0-tdi-clean-diesel-navi-leder-ahk-diesel-gruen-68a04bb6-6b14-4a3c-b2fe-6fd931a30156,Audi, A6 allroad ,216394,Automatik,2013,180,15990.0,5,4,2967,Grün
+5,https://www.autoscout24.de/angebote/audi-a4-2-0-tdi-avant-s-line-aut-bi-xenon-tempomat-n-diesel-silber-152a0c70-8d71-42fe-960a-9efea5e7937a,Audi, A4 ,206979,Automatik,km (komb.),140,13999.0,5,4,1968,Silber
+6,https://www.autoscout24.de/angebote/audi-q3-1-4-tfsi-klima-zv-lm-benzin-schwarz-68c8b321-1835-4d09-84bd-4ddd185aaf61,Audi, Q3 ,70753,Schaltgetriebe,km),110,13280.0,5,5,1395,Schwarz
+7,https://www.autoscout24.de/angebote/audi-a5-s-line-2-0-tfsi-quattro-shz-pdc-klima-xenon-benzin-schwarz-c23922fa-ab4d-4b23-9064-90d8b558b0f1,Audi, A5 ,160000,Automatik,2012,199,18790.0,4,4,1984,Schwarz
+8,https://www.autoscout24.de/angebote/audi-a3-a3-sportback-2-0-tdi-ambition-xenon-tempomat-diesel-schwarz-b9039989-3a3f-439f-90b4-e5b33a00edac,Audi, A3 ,125000,Schaltgetriebe,2013,110,13570.0,5,5,1968,Schwarz
+9,https://www.autoscout24.de/angebote/audi-a3-2-0-tdi-ambition-xenon-navi-pdc-diesel-grau-f57f511d-b6da-4fbf-a393-83f768c24cb2,Audi, A3 ,236082,Schaltgetriebe,2014,110,8850.0,5,3,1968,Grau
+10,https://www.autoscout24.de/angebote/audi-a5-coupe-3-0-tdi-quattro-abt-power-s-s-line-diesel-schwarz-31c4dcba-915d-4a06-951c-a16cea8012b1,Audi, A5 ,192225,Automatik,2011,228,14500.0,4,2,2967,Schwarz
+11,https://www.autoscout24.de/angebote/audi-a5-sportback-1-8-tfsi-navi-klima-benzin-schwarz-bb86cf12-7080-469f-829a-9c840e6e6ed5,Audi, A5 ,119876,Schaltgetriebe,2016,106,16490.0,4,5,1798,Schwarz
+12,https://www.autoscout24.de/angebote/audi-q7-3-0-tdi-quattro-bi-xenon-pdc-7-sitzer-ahk-diesel-weiss-2916326a-9453-4e78-bf71-a74ce605539a,Audi, Q7 ,192000,Automatik,2013,180,18998.0,7,4,2967,Weiß
+13,https://www.autoscout24.de/angebote/audi-a6-allroad-3-0-tdi-ahk-schiebedach-standheizung-diesel-weiss-66b9dfaf-8465-4bbc-b8b0-96fb012690a1,Audi, A6 allroad ,160500,Automatik,2010,176,15999.0,5,4,2967,Weiß
+14,https://www.autoscout24.de/angebote/audi-a5-sportback-2-0-tdi-2-hand-s-line-xenon-shz-diesel-schwarz-af7c3651-5657-49d3-9353-4f5584eb8e99,Audi, A5 ,158000,Automatik,2014,130,18990.0,4,4,1968,Schwarz
+15,https://www.autoscout24.de/angebote/audi-a5-2-0-tdi-sportback-quattro-s-tronic-diesel-schwarz-68049530-2e5b-4d37-bf86-f5320e419e1a,Audi, A5 ,145000,Automatik,2014,140,17990.0,5,4,1968,Schwarz
+16,https://www.autoscout24.de/angebote/audi-a4-ambiente-acc-b-olufsen-pdc-shz-navi-diesel-weiss-41f68851-9f46-4046-8ab9-ff5979e1fb9c,Audi, A4 ,86400,Automatik,2014,110,16490.0,5,5,1968,Weiß
+17,https://www.autoscout24.de/angebote/audi-a7-sportback-3-0-tfsi-quattro-s-line-benzin-87680637-fe8c-430c-9b8c-1c3751b8dab1,Audi, A7 ,100000,Automatik,2012,220,26990.0,4,4,2995,
+18,https://www.autoscout24.de/angebote/audi-a4-avant-2-0-tdi-attraction-navi-klima-tempomat-shz-diesel-grau-051a9a6d-0f92-451a-b6b1-902ae134c508,Audi, A4 ,233000,Schaltgetriebe,2011,125,7950.0,5,5,1968,Grau
+19,https://www.autoscout24.de/angebote/audi-s3-2-0-tfsi-quattro-stage2-led-navi-alcantara-benzin-grau-8bc07514-361b-4216-9530-359597b7b578,Audi, S3 ,84000,Automatik,2015,302,24950.0,5,2,1984,Grau
+20,https://www.autoscout24.de/angebote/audi-a4-1-8-tfsi-ambiente-shz-klima-pdc-45tkm-benzin-silber-748bf175-abaf-47fb-853b-7bd88a76ced5,Audi, A4 ,45700,Schaltgetriebe,2010,88,12790.0,5,4,1798,Silber
+21,https://www.autoscout24.de/angebote/audi-s7-4-0-tfsi-acc-b-o-s-sitze-deutsches-auto-benzin-schwarz-1b91c9be-5078-44b9-9543-f5eae042a63e,Audi, S7 ,95830,Automatik,2013,309,33480.0,4,5,3993,Schwarz
+22,https://www.autoscout24.de/angebote/audi-a5-coupe-2-0-tdi-s-line-quattro-navi-autom-euro6-diesel-grau-a49b7d59-f0c3-4bbb-a79f-1d9c214aa904,Audi, A5 ,158050,Automatik,2014,140,16800.0,4,2,1968,Grau
+23,https://www.autoscout24.de/angebote/audi-tt-coupe-s-line-navi-virtual-led-shz-benzin-weiss-d92afa06-22fa-4f36-b1af-77248e6f0d79,Audi, TT ,125000,Automatik,2016,132,21699.0,2,2,1798,Weiß
+24,https://www.autoscout24.de/angebote/audi-a7-3-0-tdi-quattro-s-line-acc-360-sitzbelueftung-diesel-schwarz-23148b5e-e24f-41af-8625-3a07963de544,Audi, A7 ,209900,Automatik,2013,230,19999.0,5,4,2967,Schwarz
+25,https://www.autoscout24.de/angebote/audi-a4-avant-s-line-sportpaket-plus-diesel-weiss-e7172e60-09ef-4d48-b9fc-d69f9fcc3751,Audi, A4 ,128000,Automatik,2014,150,17998.0,5,4,2967,Weiß
+26,https://www.autoscout24.de/angebote/audi-a4-1-8-tfsi-ambiente-multitronic-bixenon-navi-benzin-schwarz-b754c6b1-b4b6-4fdc-afb1-ca77bb5cc204,Audi, A4 ,82769,Automatik,km),125,17900.0,5,5,1798,Schwarz
+27,https://www.autoscout24.de/angebote/audi-a6-lim-3-0-tdi-quattro-navi-leder-kamera-shz-diesel-weiss-5e7c6063-5e34-4370-ad13-d4f5d20c1115,Audi, A6 ,148799,Automatik,2015,160,22990.0,5,4,2967,Weiß
+28,https://www.autoscout24.de/angebote/audi-a4-2-0-tfsi-navi-bi-xenon-sitzhzg-pdc-benzin-bronze-58448d2f-2014-4bbd-a54a-c2630cf5085b,Audi, A4 ,99978,Schaltgetriebe,2010,155,11980.0,5,4,1984,Bronze
+29,https://www.autoscout24.de/angebote/audi-a4-avant-2-0-tdi-s-line-navi-led-head-up-diesel-grau-6bf9240a-3be6-46cf-8107-db837542b6c2,Audi, A4 ,221690,Automatik,km),140,13800.0,5,4,1968,Grau
+30,https://www.autoscout24.de/angebote/audi-a5-sportback-3-0-tdi-quattro-acc-lane-diesel-schwarz-9df4998d-18b9-4002-bf32-f5cd588ed54b,Audi, A5 ,193000,Automatik,2013,180,15990.0,5,4,2967,Schwarz
+31,https://www.autoscout24.de/angebote/audi-a4-allroad-2-0-tfsi-qu-s-tr-pano-ahk-pdc-gra-benzin-schwarz-2b0ab2c4-fde5-400a-a9f7-4c7f3732a334,Audi, A4 allroad ,88288,Automatik,km (komb.),155,16444.0,5,5,1984,Schwarz
+32,https://www.autoscout24.de/angebote/audi-s5-sportback-3-0-tfsi-quattro-led-bang-olufsen-benzin-blau-44d21fd7-5296-4afe-b83c-1363b03fe5e4,Audi, S5 ,150000,Automatik,2010,245,18999.0,4,4,2995,Blau
+33,https://www.autoscout24.de/angebote/audi-a3-1-4-g-tron-sportback-navi-bi-xenon-rfk-benzin-schwarz-cb8976f6-e462-49e6-8ba3-3804a2a93c20,Audi, A3 ,176270,Automatik,2014,81,9890.0,5,5,1395,Schwarz
+34,https://www.autoscout24.de/angebote/audi-a3-2-0-tdi-sportback-ambition-xenon-navi-sitzh-diesel-grau-09fc1886-c45f-413c-a8cb-f4583b3be990,Audi, A3 ,149700,Schaltgetriebe,2011,103,9980.0,5,4,1968,Grau
+35,https://www.autoscout24.de/angebote/audi-a6-2-0-tfsi-s-tronic-quattro-kamera-navi-45-benzin-weiss-f34e1915-d427-4e51-ab07-231fc852414d,Audi, A6 ,85000,Automatik,2016,185,24850.0,5,4,1984,Weiß
+36,https://www.autoscout24.de/angebote/audi-rs6-avant-4-0-tfsi-quattro-keramik-sp-aga-sofort-benzin-schwarz-f264c956-e17f-4334-994d-f049b1efec5b,Audi, RS6 ,124479,Automatik,2020,441,89900.0,5,4,3996,Schwarz
+37,https://www.autoscout24.de/angebote/audi-s8-plus-4-0-tfsi-quattro-tiptronic-sitzh-navi-leder-benzin-schwarz-c7fada2b-6ca8-4314-bc74-453c4cde9fbb,Audi, S8 ,75898,Automatik,km (komb.),445,55489.0,5,4,3993,Schwarz
+38,https://www.autoscout24.de/angebote/audi-a4-50-tdi-quattro-advanced-diesel-schwarz-5f153e79-c9d9-4edb-a677-0bed130ce6a1,Audi, A4 ,55554,Automatik,2020,210,34880.0,5,5,2967,Schwarz
+39,https://www.autoscout24.de/angebote/audi-a3-limousine-s-line-2-0-tdi-xenon-18-alu-sitzhzg-sche-diesel-schwarz-f9d94663-93b6-4d07-b804-e353aa3da546,Audi, A3 ,145600,Schaltgetriebe,km (komb.),110,16480.0,5,4,1968,Schwarz
+40,https://www.autoscout24.de/angebote/audi-q2-s-line-shz-head-up-keyless-acc-led-benzin-schwarz-99a696ac-0221-4aa3-a9fb-c5133796a510,Audi, Q2 ,99999,Automatik,2016,110,19999.0,5,4,1395,Schwarz
+41,https://www.autoscout24.de/angebote/audi-a3-ambiente-leder-navi-pdc-s-s-benzin-grau-0a0f54ae-6ba9-4f88-bf30-566de17cebeb,Audi, A3 ,108022,Schaltgetriebe,2013,132,12500.0,5,2,1798,Grau
+42,https://www.autoscout24.de/angebote/audi-a7-3-0-tdi-quat-s-line-rs7-2hd-standhz-luft-sd-diesel-grau-cc4bec4b-019a-4285-9c71-fc29cf2e16c5,Audi, A7 ,120000,Automatik,2011,180,24890.0,5,5,2967,Grau
+43,https://www.autoscout24.de/angebote/audi-a4-lim-ambiente-xenon-pdc-klimatronic-benzin-blau-d91b6334-64c3-47b0-bc3c-fc24aa1f4767,Audi, A4 ,193100,Schaltgetriebe,2012,125,10990.0,5,4,1798,Blau
+44,https://www.autoscout24.de/angebote/audi-a3-fsi-1-2-tfsi-ambiente-klimaautomatik-xenon-benzin-grau-9f5503a2-4000-44de-b66e-034154af2745,Audi, A3 ,29274,Automatik,2012,77,12477.0,5,3,1197,Grau
+45,https://www.autoscout24.de/angebote/audi-a5-3-0-tdi-quattro-s-line-navi-pdc-shz-virt-tac-diesel-schwarz-770c9c36-7706-4e9c-9574-bea8cccff2b7,Audi, A5 ,110000,Automatik,2017,160,26990.0,4,2,2967,Schwarz
+46,https://www.autoscout24.de/angebote/audi-s3-2-0-tfsi-quattro-6-gang-led-alu-18-navi-egd-benzin-schwarz-cc006242-8b65-4311-a41e-a041bc50640f,Audi, S3 ,94911,Schaltgetriebe,2014,221,24988.0,5,3,1984,Schwarz
+47,https://www.autoscout24.de/angebote/audi-r8-r8-5-2-fsi-quattro-spyder-carbon-b-o-sportsitze-benzin-schwarz-9a8a681b-6766-44fb-a846-cc68ac7a8ccb,Audi, R8 ,34981,Automatik,2020,419,137900.0,2,2,5204,Schwarz
+48,https://www.autoscout24.de/angebote/audi-a7-3-0-tdi-comp-navi-matrix-360-hud-acc-diesel-grau-2d367d21-b61c-4186-9c8b-ce7922c54b34,Audi, A7 ,145778,Automatik,2015,240,35790.0,4,4,2967,Grau
+49,https://www.autoscout24.de/angebote/audi-a3-sportback-2-0-tfsi-s-line-sportpaket-plus-benzin-grau-cb83a27b-9363-46a9-a18b-f7d63a631f6c,Audi, A3 ,173811,Automatik,2012,147,10990.0,5,4,1984,Grau
+50,https://www.autoscout24.de/angebote/audi-tt-tt-roadster-2-0-tfsi-quattro-navi-matrix-alcan-benzin-weiss-48c7c01b-e1d5-4cf8-8e1e-e608d2d970bb,Audi, TT ,115600,Automatik,2015,169,23890.0,2,2,1984,Weiß
+51,https://www.autoscout24.de/angebote/audi-q7-4-2-tdi-quattro-s-line-navi-bose-memory-s-led-diesel-schwarz-213a7e06-4a45-49e5-8cc2-530d3b6c27d8,Audi, Q7 ,188000,Automatik,2013,250,22999.0,5,4,4134,Schwarz
+52,https://www.autoscout24.de/angebote/audi-e-tron-gt-quattro-21zoll-laser-b-o-dynamik-luft-headup-elektro-grau-6a4a1d3e-3272-4561-8174-988fa80df3a2,Audi, e-tron GT ,41000,Automatik,2021,350,77890.0,5,4,nan,Grau
+53,https://www.autoscout24.de/angebote/audi-a3-sportback-attraction-1-6-tdi-acc-xenon-shz-diesel-schwarz-7a092aa7-521c-4a86-834c-74e1679e1891,Audi, A3 ,56000,Schaltgetriebe,2015,81,17990.0,5,5,1598,Schwarz
+54,https://www.autoscout24.de/angebote/audi-a3-sportback-2-0-tfsi-quattro-stronic-benzin-weiss-50420d1c-5644-4505-b32a-33cdfb719442,Audi, A3 ,179000,Automatik,2011,147,10490.0,5,4,1984,Weiß
+55,https://www.autoscout24.de/angebote/audi-a4-lim-1-4tfsi-basis-xenon-plus-kamera-klima-benzin-schwarz-cee92362-ec0a-4368-b1d1-6d271c7c7f63,Audi, A4 ,45658,Schaltgetriebe,2017,110,19480.0,5,4,1395,Schwarz
+56,https://www.autoscout24.de/angebote/audi-a3-35-tfsi-design-s-tonic-navi-led-bluetooth-benzin-schwarz-009d5683-8a12-42cc-b1b6-5099e8b63ae8,Audi, A3 ,71400,Automatik,2019,110,19440.0,5,4,1498,Schwarz
+57,https://www.autoscout24.de/angebote/audi-a8-4-2-fsi-quattro-lueckenloses-scheckheft-allrad-luft-benzin-beige-e07c8ea1-f494-4082-be1d-475dcffe1299,Audi, A8 ,77784,Automatik,2010,273,27980.0,5,4,4163,Beige
+58,https://www.autoscout24.de/angebote/audi-q2-1-4-tfsi-s-line-tempomat-aps-18zoll-eu6-1hd-benzin-schwarz-599261b1-8c83-47af-aa57-64439b2707b7,Audi, Q2 ,82450,Schaltgetriebe,2017,110,18749.0,5,5,1395,Schwarz
+59,https://www.autoscout24.de/angebote/audi-a6-2-0-45-tfsi-quattro-s-tronic-proline-sport-au-benzin-schwarz-51f4a634-f169-4a4f-9ffd-934eb5e9d6e5,Audi, A6 ,59731,Automatik,km (komb.),180,29499.0,5,4,1984,Schwarz
+60,https://www.autoscout24.de/angebote/audi-a1-1-4-tfsi-attraction-automatik-benzin-rot-c1ff78de-5499-4e80-bf79-7a5c8838f283,Audi, A1 ,102000,Automatik,2014,90,9900.0,5,2,139,Rot
+61,https://www.autoscout24.de/angebote/audi-a4-avant-2-0-tfsi-ultra-s-line-nav-xen-ahk-b-o-benzin-blau-e6cc2f58-7a25-44ff-af67-b36c292849cf,Audi, A4 ,86450,Automatik,2018,140,23749.0,5,5,1984,Blau
+62,https://www.autoscout24.de/angebote/audi-rs7-4-0-tfsi-sportback-acc-hud-softc-gsd-massage-benzin-grau-d688e218-7d2f-481d-a165-52c6472ef0ac,Audi, RS7 ,139800,Automatik,2014,412,40990.0,4,4,3993,Grau
+63,https://www.autoscout24.de/angebote/audi-q3-2-0-tdi-quattro-klima-diesel-schwarz-7ce57eaf-2357-4ff4-812f-4acf6548f5f0,Audi, Q3 ,122500,Schaltgetriebe,2013,103,12950.0,5,5,1968,Schwarz
+64,https://www.autoscout24.de/angebote/audi-q3-sportback-tfsi-s-line-pano-led-19-3533-benzin-weiss-b1bdb097-d2a5-4c18-92a2-5b205d483668,Audi, Q3 ,109050,Automatik,2020,110,32990.0,5,4,1498,Weiß
+65,https://www.autoscout24.de/angebote/audi-q3-2-0-tdi-navi-19zoll-pdc-led-keyless-entry-diesel-schwarz-e1f36fa0-431e-4260-be92-9b86a142a325,Audi, Q3 ,140000,Schaltgetriebe,2013,103,13490.0,5,5,1968,Schwarz
+66,https://www.autoscout24.de/angebote/audi-s8-4-0-tfsi-quattro-carbon-sthz-b-o-abt-power-benzin-schwarz-0950c09e-d59f-4912-8c4a-f1ee351b0c1a,Audi, S8 ,1327,Automatik,2023,515,145970.0,5,4,3996,Schwarz
+67,https://www.autoscout24.de/angebote/audi-q2-1-4-tfsi-benzin-schwarz-dd78f09e-2f05-4deb-81ff-f82cd4d37cab,Audi, Q2 ,114545,Automatik,km),110,19990.0,5,5,nan,Schwarz
+68,https://www.autoscout24.de/angebote/audi-s6-lim-v6-tdi-quattro-s-sitze-optik-paket-luft-b-o-diesel-weiss-8b908f93-c3e2-41e7-b025-99ebcbd7c293,Audi, S6 ,57000,Automatik,2019,257,52470.0,4,4,2967,Weiß
+69,https://www.autoscout24.de/angebote/audi-a6-3-0-50-tdi-qu-s-tronic-s-line-pano-led-leder-elektro-diesel-grau-c872a3e1-ecd4-4e81-833b-a449421e1686,Audi, A6 ,112000,Automatik,Diesel,210,33990.0,5,4,2967,Grau
+70,https://www.autoscout24.de/angebote/audi-sq7-4-0-tdi-qut-pano-virt-hud-acc-7-sitze-diesel-weiss-2c9d6ad5-3c41-4b1d-b41c-59335c827784,Audi, SQ7 ,173800,Automatik,2017,320,47990.0,7,4,3956,Weiß
+71,https://www.autoscout24.de/angebote/audi-a5-coupe-3-0-tdi-quattro-navi-acc-xenon-b-o-shz-diesel-weiss-1deab2f9-4831-4111-890f-2ff11aefd30e,Audi, A5 ,55900,Automatik,2015,160,25990.0,4,2,2967,Weiß
+72,https://www.autoscout24.de/angebote/audi-q5-2-0-tdi-aut-s-line-nav-xen-ahk-20zo-shz-2hd-diesel-blau-5e885283-bb0d-4b76-bfa9-52efa0f1b22b,Audi, Q5 ,116450,Automatik,2017,140,24749.0,5,5,1968,Blau
+73,https://www.autoscout24.de/angebote/audi-a7-sportback-3-0tdi-qu-individuell-headup-stdhzg-diesel-bronze-618445b5-d068-4fd5-87aa-4113a06ee701,Audi, A7 ,179817,Automatik,2013,180,24980.0,4,5,2967,Bronze
+74,https://www.autoscout24.de/angebote/audi-a4-lim-1-4tfsi-basis-xenon-plus-kamera-klima-benzin-schwarz-cee92362-ec0a-4368-b1d1-6d271c7c7f63,Audi, A4 ,45658,Schaltgetriebe,2017,110,19480.0,5,4,1395,Schwarz
+75,https://www.autoscout24.de/angebote/audi-a3-35-tfsi-design-s-tonic-navi-led-bluetooth-benzin-schwarz-009d5683-8a12-42cc-b1b6-5099e8b63ae8,Audi, A3 ,71400,Automatik,2019,110,19440.0,5,4,1498,Schwarz
+76,https://www.autoscout24.de/angebote/audi-a8-4-2-fsi-quattro-lueckenloses-scheckheft-allrad-luft-benzin-beige-e07c8ea1-f494-4082-be1d-475dcffe1299,Audi, A8 ,77784,Automatik,2010,273,27980.0,5,4,4163,Beige
+77,https://www.autoscout24.de/angebote/audi-q2-1-4-tfsi-s-line-tempomat-aps-18zoll-eu6-1hd-benzin-schwarz-599261b1-8c83-47af-aa57-64439b2707b7,Audi, Q2 ,82450,Schaltgetriebe,2017,110,18749.0,5,5,1395,Schwarz
+78,https://www.autoscout24.de/angebote/audi-a6-2-0-45-tfsi-quattro-s-tronic-proline-sport-au-benzin-schwarz-51f4a634-f169-4a4f-9ffd-934eb5e9d6e5,Audi, A6 ,59731,Automatik,km (komb.),180,29499.0,5,4,1984,Schwarz
+79,https://www.autoscout24.de/angebote/audi-a1-1-4-tfsi-attraction-automatik-benzin-rot-c1ff78de-5499-4e80-bf79-7a5c8838f283,Audi, A1 ,102000,Automatik,2014,90,9900.0,5,2,139,Rot
+80,https://www.autoscout24.de/angebote/audi-a4-avant-2-0-tfsi-ultra-s-line-nav-xen-ahk-b-o-benzin-blau-e6cc2f58-7a25-44ff-af67-b36c292849cf,Audi, A4 ,86450,Automatik,2018,140,23749.0,5,5,1984,Blau
+81,https://www.autoscout24.de/angebote/audi-rs7-4-0-tfsi-sportback-acc-hud-softc-gsd-massage-benzin-grau-d688e218-7d2f-481d-a165-52c6472ef0ac,Audi, RS7 ,139800,Automatik,2014,412,40990.0,4,4,3993,Grau
+82,https://www.autoscout24.de/angebote/audi-q3-2-0-tdi-quattro-klima-diesel-schwarz-7ce57eaf-2357-4ff4-812f-4acf6548f5f0,Audi, Q3 ,122500,Schaltgetriebe,2013,103,12950.0,5,5,1968,Schwarz
+83,https://www.autoscout24.de/angebote/audi-q3-sportback-tfsi-s-line-pano-led-19-3533-benzin-weiss-b1bdb097-d2a5-4c18-92a2-5b205d483668,Audi, Q3 ,109050,Automatik,2020,110,32990.0,5,4,1498,Weiß
+84,https://www.autoscout24.de/angebote/audi-q3-2-0-tdi-navi-19zoll-pdc-led-keyless-entry-diesel-schwarz-e1f36fa0-431e-4260-be92-9b86a142a325,Audi, Q3 ,140000,Schaltgetriebe,2013,103,13490.0,5,5,1968,Schwarz
+85,https://www.autoscout24.de/angebote/audi-s8-4-0-tfsi-quattro-carbon-sthz-b-o-abt-power-benzin-schwarz-0950c09e-d59f-4912-8c4a-f1ee351b0c1a,Audi, S8 ,1327,Automatik,2023,515,145970.0,5,4,3996,Schwarz
+86,https://www.autoscout24.de/angebote/audi-q2-1-4-tfsi-benzin-schwarz-dd78f09e-2f05-4deb-81ff-f82cd4d37cab,Audi, Q2 ,114545,Automatik,km),110,19990.0,5,5,nan,Schwarz
+87,https://www.autoscout24.de/angebote/audi-s6-lim-v6-tdi-quattro-s-sitze-optik-paket-luft-b-o-diesel-weiss-8b908f93-c3e2-41e7-b025-99ebcbd7c293,Audi, S6 ,57000,Automatik,2019,257,52470.0,4,4,2967,Weiß
+88,https://www.autoscout24.de/angebote/audi-a6-3-0-50-tdi-qu-s-tronic-s-line-pano-led-leder-elektro-diesel-grau-c872a3e1-ecd4-4e81-833b-a449421e1686,Audi, A6 ,112000,Automatik,Diesel,210,33990.0,5,4,2967,Grau
+89,https://www.autoscout24.de/angebote/audi-sq7-4-0-tdi-qut-pano-virt-hud-acc-7-sitze-diesel-weiss-2c9d6ad5-3c41-4b1d-b41c-59335c827784,Audi, SQ7 ,173800,Automatik,2017,320,47990.0,7,4,3956,Weiß
+90,https://www.autoscout24.de/angebote/audi-a5-coupe-3-0-tdi-quattro-navi-acc-xenon-b-o-shz-diesel-weiss-1deab2f9-4831-4111-890f-2ff11aefd30e,Audi, A5 ,55900,Automatik,2015,160,25990.0,4,2,2967,Weiß
+91,https://www.autoscout24.de/angebote/audi-q5-2-0-tdi-aut-s-line-nav-xen-ahk-20zo-shz-2hd-diesel-blau-5e885283-bb0d-4b76-bfa9-52efa0f1b22b,Audi, Q5 ,116450,Automatik,2017,140,24749.0,5,5,1968,Blau
+92,https://www.autoscout24.de/angebote/audi-a7-sportback-3-0tdi-qu-individuell-headup-stdhzg-diesel-bronze-618445b5-d068-4fd5-87aa-4113a06ee701,Audi, A7 ,179817,Automatik,2013,180,24980.0,4,5,2967,Bronze
+93,https://www.autoscout24.de/angebote/audi-rs7-4-0-tfsi-quattro-leder-acc-virtual-pano-b-o-benzin-schwarz-e03ec422-89a5-497e-8ec9-97b7c96e7b45,Audi, RS7 ,46000,Automatik,2021,441,115990.0,4,4,3996,Schwarz
+94,https://www.autoscout24.de/angebote/audi-a6-avant-sport-55-tfsi-qu-s-tronic-s-line-ext-pano-benzin-blau-fc135c19-b265-4428-9ed3-57f7098d2743,Audi, A6 ,62590,Automatik,2019,250,41412.0,5,4,2995,Blau
+95,https://www.autoscout24.de/angebote/audi-a3-sportback-1-4-tfsi-ambition-panorama-navi-scheckh-benzin-weiss-e07aa5c6-01c4-49a9-9892-313a01a40ef1,Audi, A3 ,85628,Schaltgetriebe,2013,92,13980.0,5,5,1395,Weiß
+96,https://www.autoscout24.de/angebote/audi-a8-4-2-tdi-q-matrix-nachts-hud-bose-hud-soft-360-diesel-schwarz-a7174277-5e7a-475b-a12d-1b5d94bc0e9f,Audi, A8 ,128000,Automatik,2013,283,28990.0,5,4,4134,Schwarz
+97,https://www.autoscout24.de/angebote/audi-a6-lim-3-0-tdi-quattro-tiptronic-navi-kamera-diesel-schwarz-6bd8fbeb-1f4a-466b-8129-5c79dd00980e,Audi, A6 ,139320,Automatik,2014,230,22950.0,5,4,2967,Schwarz
+98,https://www.autoscout24.de/angebote/audi-a5-3-0-tdi-qu-s-line-1-hand-scheckheft-ahk-18z-diesel-weiss-6bfde365-f85d-420e-983f-a116f7fb3632,Audi, A5 ,117700,Automatik,2012,180,18880.0,4,2,2967,Weiß
+99,https://www.autoscout24.de/angebote/audi-a5-sportback-3-0-tdi-qua-s-tronic-bi-xenon-navi-diesel-braun-fc890ed9-2277-4a94-9566-06a071582b24,Audi, A5 ,104000,Automatik,2016,180,21990.0,4,5,2967,Braun
+100,https://www.autoscout24.de/angebote/audi-q5-3-0-tdi-quattro-1-hand-erst-87-000-km-autom-diesel-grau-e8e6aeb5-1c27-49ff-8427-935769a1dc34,Audi, Q5 ,87000,Automatik,2011,176,18900.0,5,4,2967,Grau
+101,https://www.autoscout24.de/angebote/audi-q3-2-0-tdi-quattro-sport-ahk-navi-kamera-diesel-schwarz-e159e156-2e8c-42fa-85f8-01f4715bef8f,Audi, Q3 ,110422,Schaltgetriebe,2016,135,19990.0,5,5,1968,Schwarz
+102,https://www.autoscout24.de/angebote/audi-s5-3-0-tfsi-quattro-ahk-virtual-matrix-benzin-weiss-39b49844-3af3-4406-8efb-5181e430f659,Audi, S5 ,120000,Automatik,2017,260,32900.0,4,3,2995,Weiß
+103,https://www.autoscout24.de/angebote/audi-a3-1-4-tfsi-virtual-cockpit-navi-xenon-benzin-schwarz-baaf6b61-4b01-42e0-8019-7863b469b3a5,Audi, A3 ,89150,Schaltgetriebe,km),110,17490.0,5,5,nan,Schwarz
+104,https://www.autoscout24.de/angebote/audi-e-tron-advanced-55-quattro-300-kw-navi-luft-elektro-schwarz-77149ad1-661e-44dc-88a4-d6df63202e73,Audi, e-tron ,13084,Automatik,100 km (komb.),300,42690.0,5,5,nan,Schwarz
+105,https://www.autoscout24.de/angebote/audi-a4-avant-50-tdi-quattro-s-line-klima-led-head-up-k-diesel-weiss-d1790950-4bca-43d3-b6af-b03c4d3813f1,Audi, A4 ,70328,Automatik,2021,210,35550.0,5,5,2967,Weiß
+106,https://www.autoscout24.de/angebote/audi-a3-limousine-s-line-40-tfsi-quattro-s-tronic-19-acc-benzin-weiss-88188998-c8d8-44e7-b714-f9337d0d2a9c,Audi, A3 ,6000,Automatik,2022,140,48980.0,5,5,1984,Weiß
+107,https://www.autoscout24.de/angebote/audi-q5-40-tdi-quattro-sport-nav-xen-ahk-kamera-e6dt-diesel-schwarz-d405ab4c-fe6e-4a27-b401-ef00e994e3a6,Audi, Q5 ,124750,Automatik,2019,140,28989.0,5,5,1968,Schwarz
+108,https://www.autoscout24.de/angebote/audi-a5-sportback-40-tfsi-kamera-led-leder-b-o-benzin-weiss-f37222a0-ef94-4366-807c-2da9f3da8bd6,Audi, A5 ,67000,Automatik,2019,140,28300.0,5,4,1984,Weiß
+109,https://www.autoscout24.de/angebote/audi-a3-1-2-tfsi-attraction-benzin-schwarz-6c37f42c-6102-48c6-86bf-b059a480fc8d,Audi, A3 ,124200,Schaltgetriebe,2015,81,11950.0,5,3,1197,Schwarz
+110,https://www.autoscout24.de/angebote/audi-s3-2-0-tfsi-q-navi-lm18-pdc-leder-benzin-grau-cc7f3ee5-b3aa-4868-88e3-69279b0c7c95,Audi, S3 ,87913,Automatik,km),221,23360.0,5,3,1984,Grau
